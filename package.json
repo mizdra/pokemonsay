@@ -1,7 +1,10 @@
 {
-  "name": "pokemonsay",
+  "name": "@mizdra/pokemonsay",
   "description": "Pokemon version of cowsay with CLI and API.",
   "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dfrankland/pokemonsay.git"
